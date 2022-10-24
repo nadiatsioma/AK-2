@@ -1,0 +1,3 @@
+/home/nadiia/lab3/CMakeFiles/Lab3.dir
+/home/nadiia/lab3/CMakeFiles/edit_cache.dir
+/home/nadiia/lab3/CMakeFiles/rebuild_cache.dir
